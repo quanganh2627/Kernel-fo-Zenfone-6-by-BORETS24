@@ -7,7 +7,7 @@ How to build zenfone kernel
 	repo sync
 
 # 2 Download original source from ASUS site end extract this to [working dir]
-#3 Than create 'linux'folder in [working dir] and push folders kernel and modules to 'linux' folder 
+#3 Download my source code, then rename  Kernel-fo-Zenfone-6-by-BORETS24-master folder to 'linux' and put this in [working dir]
 
 #4 build 'minigzip' and 'openssl' modules
 	source build/envsetup.sh
